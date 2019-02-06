@@ -12,6 +12,7 @@
 */
 #include <math.h>
 #include <unistd.h>
+#include <stdio.h>
 
 #include "stopwatch.h"
 #include "test_stopwatch.h"
